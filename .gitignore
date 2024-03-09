@@ -1,3 +1,4 @@
 *.ifc
 *.csv
 .ipynb*/
+*.pkcls
